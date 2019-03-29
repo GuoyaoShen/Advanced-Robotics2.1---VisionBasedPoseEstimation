@@ -1,0 +1,31 @@
+TestEmptyIdShouldReturnEmpty
+Pass
+
+TestData1
+RMS error: x: 0.008274, y: 0.011233, z: 0.007043, pos norm: 0.015629, q.w = 0.000514, q.x: 0.004673, q.y: 0.003395, q.z: 0.003342, quat norm: 0.006693
+Average time per iteration: 0.489275 ms
+
+TestData2
+RMS error: x: 0.009409, y: 0.014702, z: 0.009229, pos norm: 0.019745, q.w = 0.000593, q.x: 0.003927, q.y: 0.006256, q.z: 0.002294, quat norm: 0.007757
+Average time per iteration: 0.584292 ms
+
+TestData3
+RMS error: x: 0.009399, y: 0.013390, z: 0.006903, pos norm: 0.017756, q.w = 0.000706, q.x: 0.004703, q.y: 0.003778, q.z: 0.003382, quat norm: 0.006952
+Average time per iteration: 0.336260 ms
+
+TestData4
+RMS error: x: 0.015801, y: 0.009850, z: 0.006551, pos norm: 0.019739, q.w = 0.001801, q.x: 0.005746, q.y: 0.005494, q.z: 0.003538, quat norm: 0.008887
+Average time per iteration: 0.387685 ms
+
+TestData5
+RMS error: x: 0.013396, y: 0.010863, z: 0.006702, pos norm: 0.018503, q.w = 0.000118, q.x: 0.003897, q.y: 0.004333, q.z: 0.001332, quat norm: 0.005979
+Average time per iteration: 0.246579 ms
+
+TestData6
+RMS error: x: 0.010308, y: 0.008387, z: 0.006014, pos norm: 0.014587, q.w = 0.000132, q.x: 0.004026, q.y: 0.004285, q.z: 0.001048, quat norm: 0.005974
+Average time per iteration: 0.260028 ms
+
+TestData7
+RMS error: x: 0.012892, y: 0.007363, z: 0.006606, pos norm: 0.016250, q.w = 0.000181, q.x: 0.002999, q.y: 0.004677, q.z: 0.001091, quat norm: 0.005665
+Average time per iteration: 0.253262 ms
+
